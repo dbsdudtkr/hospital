@@ -1,1 +1,8 @@
 git push -u origin main
+
+
+
+
+
+git remote add origin https://github.com/dbsdudtkr/hospital.git
+git push -u origin master
